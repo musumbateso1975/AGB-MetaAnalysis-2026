@@ -3,7 +3,7 @@
 **Advances in forest Above-Ground Biomass estimation from Remote Sensing:  
 A Meta-Analysis of GEDI LiDAR and Multi-Sensor Approaches**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20575421.svg)](https://doi.org/10.5281/zenodo.20575421)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![R version](https://img.shields.io/badge/R-%3E%3D%204.5.3-blue)](https://www.r-project.org/)
 
