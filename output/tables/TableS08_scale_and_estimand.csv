@@ -1,0 +1,7 @@
+﻿"Estimate","Value","CI_95","Interval_for_new_study","Note"
+"Mean R², three-level CR2, untransformed (primary)","0.653","0.61–0.69","0.24–1.00 (normal on R² scale; upper limit truncated at 1)","SE = 0.0190, Satterthwaite df = 43.2, sum sigma² = 0.0426"
+"Mean of cluster-mean R², t interval","0.672","0.63–0.71","2.5–97.5% of cluster means: 0.38–0.93","Each cluster weighted equally"
+"Mean of cluster-mean R², cluster bootstrap","0.672","0.63–0.71","","5,000 resamples of clusters"
+"Back-transformed mean Fisher's Z, three-level CR2 (complementary)","0.704","0.66–0.74","0.18–0.93 (normal on Z scale, quantiles back-transformed)","SE(Z) = 0.0417, df = 49.2, sum sigma² = 0.1457; estimates the R² at the mean of Z (close to a median), not the mean R²"
+"Median of cluster-mean R²","0.697","","",""
+"Median of all observed R²","0.68","","",""

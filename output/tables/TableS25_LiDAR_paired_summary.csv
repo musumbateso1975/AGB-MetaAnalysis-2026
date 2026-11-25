@@ -1,0 +1,8 @@
+﻿"Analysis","k","Estimate","CI_lower","CI_upper","Studies_with_gain","Leave_one_out","Metric"
+"All studies with both configurations (unpaired means)","7","0.245","0.204","0.286","7","","ΔR²"
+"Matched pairs (all reference data)","3","0.272","0.173","0.372","3","0.249–0.284","ΔR²"
+"Matched pairs, field reference only","2","0.284","-0.152","0.721","2","","ΔR²"
+"Matched pairs, pooled ΔZ (Knapp–Hartung), rho = 0","3","0.452","0.212","0.693",,"","ΔZ"
+"Matched pairs, pooled ΔZ (Knapp–Hartung), rho = 0.8","3","0.446","0.219","0.672",,"","ΔZ"
+"Matched pairs, RMSE change (%), by cluster","3","-28.507","-40.551","-14.023","3","","ΔRMSE %"
+"Matched pairs, RMSE change (%), field reference","2","-30.671","-64.093","33.859","2","","ΔRMSE %"

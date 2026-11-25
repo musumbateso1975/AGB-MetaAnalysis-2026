@@ -1,0 +1,5 @@
+﻿"Model","n_obs","k_studies","k_clusters","Z","SE","Z_CI","CI_width_Z","R2","R2_CI","df","Heterogeneity","R2_PI","Inference","Sensor_p","Model_category_p","LiDAR_p","GEDI_p"
+"M1 Fixed effect, observations independent","258","62","56","1.203","0.0046","1.194–1.212","0.018","0.696","0.69–0.70","∞ (z)","Q = 7329, p < 0.001","—","Model-based, ignores heterogeneity and dependence","< 0.001","< 0.001","< 0.001","< 0.001"
+"M2 Random effects, observations independent","258","62","56","1.16","0.0244","1.112–1.208","0.096","0.674","0.65–0.70","∞ (z)","tau² = 0.132; I² = 96.1%","0.18–0.91","Model-based, ignores dependence","< 0.001","0.274","0.032","0.936"
+"M3 Three-level (cluster/study/observation), model-based SE","258","62","56","1.218","0.0417","1.137–1.300","0.164","0.704","0.66–0.74","∞ (z)","sum sigma² = 0.146","0.18–0.93","Model-based, dependence modelled","< 0.001","0.454","< 0.001","0.940"
+"M4 = M3 with CR2 robust SE (Satterthwaite df)","258","62","56","1.218","0.0417","1.135–1.302","0.168","0.704","0.66–0.74","49.2","sum sigma² = 0.146","0.18–0.93","Robust to misspecified dependence, small-sample corrected","0.117","0.509","0.025","0.946"

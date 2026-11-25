@@ -1,0 +1,3 @@
+﻿"Scale","n_obs","k","beta","p","df_den","Note"
+"R2","249","61","0.003","0.954","13.3","GEDI used vs not, observations with unverified GEDI role excluded"
+"Z","249","61","-0.01","0.937","13.5","GEDI used vs not, observations with unverified GEDI role excluded"

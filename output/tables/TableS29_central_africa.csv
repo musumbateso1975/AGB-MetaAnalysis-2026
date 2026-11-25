@@ -1,0 +1,13 @@
+﻿"Study_ID","Reference","Country","n_obs","Sensors","Models","Reference_data","Validation_verified","R2_median"
+"S16","Baccini et al. 2008","Multiple","1","Optical-only","Machine-learning","Field (verified)","","0.82"
+"S29","Sagang et al. 2020","Cameroon","7","LiDAR-only; Optical-only","Machine-learning; Statistical","LiDAR-derived AGB; Field (presumed)","Spatial 4-fold CV","0.62"
+"S5","Choi et al. 2023","Gabon","4","LiDAR-only; SAR+LiDAR","Statistical","LiDAR-derived AGB","","0.65"
+"S57","Migolet et al. 2022","Gabon","14","Optical+SAR+LiDAR","Statistical","Field (presumed)","","0.53"
+"S58","Rodda et al. 2024","Cameroon","4","LiDAR-only","Statistical","Field (presumed)","","0.6"
+"S59","Wan et al. 2025","Multiple","2","Optical+SAR+LiDAR","Statistical","Field (verified)","Random 20% hold-out of field plots","0.38"
+"S60","Lamulamu et al. 2022","Democratic Republic of Congo","1","Optical+SAR+LiDAR","Statistical","Field (verified)","Independent validation of the national map against DRC NFI plots (2017–2018)","0.58"
+"S61","Sagang et al. 2026","Multiple","1","Optical+SAR+LiDAR","Machine-learning","LiDAR-derived AGB","Random 20% hold-out of LiDAR pixels","0.6"
+"Test","Central Africa vs other regions: ΔZ = -0.25 (-0.52 to 0.03), CR2 df = 2.5, p = 0.062; Satterthwaite df < 4: robust test unreliable, descriptive only",,,,,,,
+"Test","Tropical vs other climates: ΔZ = -0.13 (-0.29 to 0.03), CR2 df = 36.8, p = 0.100",,,,,,,
+"Test","Central Africa vs other regions, untransformed R²: ΔR² = -0.12 (-0.31 to 0.07), CR2 df = 2.5, p = 0.122",,,,,,,
+"Test","Tropical vs other climates, untransformed R²: ΔR² = -0.05 (-0.13 to 0.02), CR2 df = 33.7, p = 0.174",,,,,,,

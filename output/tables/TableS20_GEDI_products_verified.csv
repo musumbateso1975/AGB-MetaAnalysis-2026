@@ -1,0 +1,7 @@
+﻿"Product","n_obs","k_studies","mean_R2"
+"GEDI Derived Product","1","1","0.89"
+"GEDI L2A","7","5","0.659"
+"GEDI L2B","9","2","0.606"
+"GEDI L4A","1","1","0.93"
+"GEDI L4B","1","1","0.436"
+"GEDI Multi-level","19","6","0.6"

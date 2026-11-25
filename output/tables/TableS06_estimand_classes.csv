@@ -1,0 +1,6 @@
+﻿"Estimand","n_obs","k_studies","R2_median","R2_pooled","R2_CI","R2_PI_untransformed","r_PI_FisherZ","R2_PI_FisherZ","I2_total","Inference"
+"All comparable R² (primary synthesis)","258","62","0.68","0.653","0.61–0.69","0.24–1.00","0.42–0.96","0.18–0.93","96.4","CR2 robust"
+"A: simple linear regression (R² = r²)","22","11","0.705","0.68","0.60–0.77","0.26–1.00","0.50–0.96","0.25–0.92","84.5","CR2 robust"
+"B: multi-predictor / machine-learning / predictive R²","236","59","0.678","0.653","0.61–0.69","0.23–1.00","0.41–0.96","0.17–0.93","96.7","CR2 robust"
+"B1: B with documented validation design","155","26","0.62","0.597","0.55–0.64","0.21–0.99","0.45–0.93","0.21–0.87","93.5","CR2 robust"
+"All, reported n only (no imputed variance)","237","54","0.68","0.655","0.62–0.69","0.23–1.00","0.42–0.96","0.18–0.93","96.7","CR2 robust"

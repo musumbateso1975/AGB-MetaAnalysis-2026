@@ -1,0 +1,73 @@
+﻿"Study_ID","Reference","Year","Journal","Country","Climate_zone","Sensor_combinations","Model_categories","GEDI_used","n_R2","n_RMSE","R2_values_removed"
+"S1","Indirabai & Nilsson 2024","2024","Ecological Informatics","India","Tropical","Optical-only","Statistical","No","2","2",
+"S2","Nazir et al. 2025","2025","Forest Ecology and Management","Pakistan","Temperate; Tropical","LiDAR-only","Statistical","Yes","0","0","Accuracy of the existing GEDI L4A product; Training-fit R² (excluded from the primary analysis; sensitivity analysis only)"
+"S3","Yang et al. 2025b","2025","IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing","China","Temperate","LiDAR-only","Machine-learning","Yes","3","3",
+"S4","Mohite et al. 2024","2024","International Journal of Remote Sensing","India","Tropical","Optical+SAR+LiDAR","Machine-learning","Yes","0","0","Computed against GEDI L4A, not field data"
+"S5","Choi et al. 2023","2023","IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing","Gabon","Tropical","LiDAR-only; SAR+LiDAR","Statistical","Yes","4","4",
+"S6","Musthafa & Singh 2022a","2022","Advances in Space Research","India","Subtropical","LiDAR-only","Statistical","Yes","1","4","Training-fit R² (excluded from the primary analysis; sensitivity analysis only)"
+"S7","Tian et al. 2012","2012","International Journal of Applied Earth Observation and Geoinformation","China","Arid","LiDAR-only; Optical-only; Optical+SAR","Machine-learning; Statistical","No","3","3",
+"S8","Jiang et al. 2022","2022","Remote Sensing","China","Temperate","Optical-only","Deep-learning; Machine-learning; Statistical","No","10","10",
+"S9","David et al. 2022","2022","Remote Sensing of Environment","Botswana","Arid","Optical+SAR","Machine-learning; Statistical","No","2","0",
+"S10","Li et al. 2021","2021","Remote Sensing","China","Subtropical","Optical-only","Machine-learning","No","1","1",
+"S11","Nguyen et al. 2015","2015","Sensors","South Korea","Temperate","Optical-only","Machine-learning","No","0","4",
+"S12","Padalia et al. 2023","2023","Ecological Informatics","India","Tropical","LiDAR-only; Optical+SAR+LiDAR; SAR-only","Machine-learning","No/Yes","3","3",
+"S13","Fan et al. 2024","2024","Remote Sensing","China","Subtropical","LiDAR+Optical; Optical-only","Machine-learning; Statistical","No","9","9",
+"S14","Moghimi et al. 2024","2024","Kuwait Journal of Science","Iran","Subtropical","Optical+SAR","Machine-learning; Statistical","No","2","2",
+"S15","Pötzschner et al. 2022","2022","Remote Sensing of Environment","Multiple","Tropical","Optical+SAR+LiDAR","Machine-learning","Yes","1","1",
+"S16","Baccini et al. 2008","2008","Environmental Research Letters","Multiple","Tropical","Optical-only","Machine-learning","No","1","1",
+"S17","Tao et al. 2024","2024","International Journal of Applied Earth Observation and Geoinformation","China","Temperate","Optical-only","Machine-learning","No","0","0","Training-fit R² (excluded from the primary analysis; sensitivity analysis only)"
+"S18","Attarchi & Gloaguen 2014","2014","Remote Sensing","Iran","Temperate","Optical-only; Optical+SAR","Statistical","No","2","2",
+"S19","Sanam et al. 2024","2024","Journal of the Indian Society of Remote Sensing","India","Tropical","LiDAR+Optical","Statistical","No","1","1",
+"S20","Musthafa & Singh 2022b","2022","Frontiers in Forests and Global Change","India","Tropical","SAR-only; SAR+LiDAR","Machine-learning","No/Yes","2","8",
+"S21","Zhang et al. 2019b","2019","Remote Sensing of Environment","China","Subtropical","LiDAR+Optical","Machine-learning","No","1","1",
+"S22","Shao et al. 2017","2017","IEEE JSTARS","China","Subtropical","Optical+SAR+LiDAR","Deep-learning","No","1","1",
+"S23","López-Serrano et al. 2016","2016","Forests","Mexico","Temperate","Optical-only","Machine-learning","No","3","3",
+"S24","Sun et al. 2011","2011","Remote Sensing of Environment","USA","Temperate","SAR+LiDAR","Statistical","No","1","1",
+"S25","Domingues et al. 2020","2020","Computers and Electronics in Agriculture","Brazil","Subtropical","Optical+SAR","Machine-learning","No","1","1",
+"S26","Shamaoma et al. 2024","2024","Plant Methods","Zambia","Tropical","LiDAR+Optical","Statistical","No","1","1",
+"S27","Nord-Larsen & Schumacher 2012","2012","Remote Sensing of Environment","Denmark","Temperate","LiDAR-only","Statistical","No","1","1","Basal area or volume, not biomass"
+"S28","Huang et al. 2022","2022","Geocarto International","China","Subtropical","Optical+SAR","Machine-learning","No","1","1",
+"S29","Sagang et al. 2020","2020","Remote Sensing","Cameroon","Tropical","LiDAR-only; Optical-only","Machine-learning; Statistical","No","7","8",
+"S30","Ometto et al. 2023","2023","Scientific Data","Brazil","Tropical","Optical+SAR+LiDAR","Machine-learning","No","1","1",
+"S31","Egberth et al. 2017","2017","Carbon Balance and Management","Tanzania","Tropical","LiDAR-only; LiDAR+Optical; Optical-only","Statistical","No","0","3","Training-fit R² (excluded from the primary analysis; sensitivity analysis only)"
+"S32","Zhang et al. 2017","2017","Remote Sensing of Environment","USA","Temperate","Optical+SAR; SAR-only","Statistical","No","2","2",
+"S33","Bernasconi et al. 2017","2017","Remote Sensing","Cabo Verde","Subtropical","Optical-only","Statistical","No","2","2",
+"S34","Yu et al. 2015","2015","Remote Sensing","Finland","Boreal","SAR-only","Machine-learning","No","0","1",
+"S35","Vastaranta et al. 2014","2014","Remote Sensing","Finland","Boreal","SAR+LiDAR","Machine-learning","No","0","1",
+"S36","Liao et al. 2020","2020","Int J Appl Earth Obs Geoinformation","Australia","Subtropical","Optical+SAR+LiDAR","Machine-learning","No","1","1",
+"S37","Melitha et al. 2025","2025","Earth Science Informatics","Tanzania","Tropical","Optical-only","Machine-learning","No","4","4",
+"S38","Luong et al. 2019","2019","Applied Ecology and Environmental Research","Vietnam","Tropical","SAR-only","Statistical","No","5","1",
+"S39","Chen & Hay 2011","2011","Photogrammetric Engineering and Remote Sensing","Canada","Temperate","LiDAR+Optical","Machine-learning","No","1","1",
+"S40","Wang et al. 2024","2024","Forests","China","Subtropical","Optical+SAR","Machine-learning","No","1","1","Subset nested in an aggregate retained from the same study"
+"S41","Duncanson et al. 2020","2020","Remote Sensing of Environment","USA","Temperate","LiDAR-only; SAR-only","Statistical","No/Yes","3","3",
+"S42","Maung et al. 2025","2025","Discover Conservation","Myanmar","Tropical","Optical+SAR+LiDAR","Machine-learning","No","2","3",
+"S43","Ding et al. 2025","2025","Remote Sensing","China","Temperate","Optical+SAR+LiDAR","Statistical","Yes","5","5",
+"S44","Bueno et al. 2025","2025","Remote Sensing","USA","Subtropical","Optical+SAR+LiDAR","Machine-learning; Statistical","Yes","3","3",
+"S45","Rana et al. 2023","2023","International Journal of Remote Sensing","Nepal","Tropical","LiDAR-only; LiDAR+Optical; Optical-only","Deep-learning; Machine-learning; Statistical","No","20","20",
+"S46","Tian et al. 2024","2024","Remote Sensing","China","Subtropical","Optical-only; Optical+SAR; SAR-only","Deep-learning; Machine-learning","No","27","27",
+"S47","Albors et al. 2025","2025","IEEE Transactions on Geoscience and Remote Sensing","Spain; France","Temperate","Optical-only","Deep-learning","No","0","10",
+"S48","Yao et al. 2026","2026","IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing","China","Subtropical","LiDAR-only","Machine-learning; Statistical","No","5","6","Non-comparable metric or estimand"
+"S49","Lin & Doyog 2025","2025","IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing","Taiwan","Subtropical","Optical-only","Machine-learning","No","4","4",
+"S50","Urbazaev et al. 2018","2018","Carbon Balance and Management","Mexico","Tropical","Optical+SAR","Machine-learning","No","2","2","Subset nested in an aggregate retained from the same study"
+"S51","Li et al. 2020","2020","Scientific Reports","China","Subtropical","Optical+SAR","Machine-learning; Statistical","No","3","3",
+"S52","Zhang et al. 2019a","2019","Remote Sensing","China","Subtropical","LiDAR+Optical","Deep-learning; Machine-learning; Statistical","No","5","5",
+"S53","Li et al. 2024","2024","Environmental Modelling and Software","China","Subtropical","Optical-only","Machine-learning","No","4","4",
+"S54","Chopping et al. 2026","2026","Remote Sensing of Environment","USA","Temperate","LiDAR-only; Optical-only","Statistical","No/Yes","0","9","Non-comparable metric or estimand"
+"S55","Yang et al. 2026b","2026","Ecological Informatics","China","Arid","Optical-only","Machine-learning","No","1","1",
+"S56","Chen et al. 2026","2026","Ecological Indicators","China","Tropical","Optical+SAR","Machine-learning; Statistical","No","6","6",
+"S57","Migolet et al. 2022","2022","GIScience & Remote Sensing","Gabon","Tropical","Optical+SAR+LiDAR","Statistical","No","14","14",
+"S58","Rodda et al. 2024","2024","Scientific Data","India; Thailand; Cameroon; Gabon","Tropical","LiDAR-only","Statistical","No","9","9",
+"S59","Wan et al. 2025","2025","Frontiers in Remote Sensing","Multiple","Tropical","Optical+SAR+LiDAR","Machine-learning; Statistical","Yes","2","4","Residual variance reported as R²"
+"S60","Lamulamu et al. 2022","2022","Remote Sensing","Democratic Republic of Congo","Tropical","Optical+SAR+LiDAR","Statistical","No","1","1","Subset nested in an aggregate retained from the same study"
+"S61","Sagang et al. 2026","2026","Nature Communications","Multiple","Tropical","Optical+SAR+LiDAR","Machine-learning","Yes","1","0",
+"S62","Solberg et al. 2024","2024","Remote Sensing","Tanzania","","SAR+LiDAR","Statistical","No","1","1",
+"S63","Mitsuhashi et al. 2024","2024","Remote Sensing","Japan; Brazil","Temperate; Boreal; Tropical","LiDAR-only","Deep-learning","Yes","0","6","Predictive R² that can be negative"
+"S64","Jiang et al. 2026","2026","Remote Sensing","China","","Optical+SAR+LiDAR","Machine-learning","Yes","6","6",
+"S65","Kaewjampa et al. 2026","2026","Remote Sensing","Thailand","Tropical","LiDAR-only; LiDAR+Optical; Optical-only","Machine-learning","No","10","6",
+"S66","Yang et al. 2026a","2026","Remote Sensing","China","Subtropical","LiDAR-only; LiDAR+Optical; Optical+SAR+LiDAR","Machine-learning; Statistical","No/Yes","10","10",
+"S67","Li et al. 2015","2015","ISPRS Journal of Photogrammetry and Remote Sensing","USA","Temperate","LiDAR-only","Machine-learning; Statistical","No","4","4","MODIS estimates (250–1000 m) evaluated against aggregated LiDAR-derived AGB; Partial duplicate of models reported elsewhere in the same article"
+"S68","Imran et al. 2025","2025","Forests","Pakistan","Temperate","LiDAR+Optical","Machine-learning","Yes","1","0","Non-comparable metric or estimand"
+"S69","Pereira et al. 2018b","2018","Remote Sensing","Brazil","Tropical","SAR-only","Statistical","No","17","17",
+"S70","Pereira et al. 2018a","2018","Remote Sensing","Brazil","Tropical","LiDAR-only","Machine-learning; Statistical","No","8","8",
+"S71","Subedi & Zurqani 2026","2026","Advances in Space Research","USA","Subtropical","Optical-only","Deep-learning; Machine-learning","No","2","2","Non-comparable metric or estimand"
+"S72","Yang et al. 2025a","2025","Ecological Indicators","China","Temperate","Optical-only","Machine-learning","Yes","1","1","Non-comparable metric or estimand"

@@ -1,0 +1,8 @@
+﻿"Study_ID","Cluster","Reference","n_models_with","n_models_without","Reference_data","dR2_unpaired","n_pairs","dR2_paired","dZ_paired","Pairing"
+"S12","C_Haldwani","Padalia et al. 2023","2","1","Field (verified)","0.23",,,,"Not paired: different n, algorithm or unknown n"
+"S13","S13","Fan et al. 2024","5","4","Field (verified)","0.27","4","0.25","0.416","Matched pair, field reference"
+"S29","S29","Sagang et al. 2020","1","6","LiDAR-derived AGB + Field (presumed)","0.178",,,,"Not paired: different reference data"
+"S41","C_Sonoma","Duncanson et al. 2020","2","1","LiDAR-derived AGB","0.255",,,,"Not paired: different n, algorithm or unknown n"
+"S45","S45","Rana et al. 2023","12","8","Field (verified)","0.32","16","0.319","0.537","Matched pair, field reference"
+"S65","S65","Kaewjampa et al. 2026","8","2","LiDAR-derived AGB","0.246","4","0.249","0.371","Matched pair, LiDAR-derived reference"
+"S7","S7","Tian et al. 2012","1","2","Field (verified)","0.215",,,,"Not paired: different n, algorithm or unknown n"

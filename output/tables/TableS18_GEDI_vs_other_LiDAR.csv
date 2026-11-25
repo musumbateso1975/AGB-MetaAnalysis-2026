@@ -1,0 +1,2 @@
+﻿"Comparison","n_obs","k_studies_GEDI","k_studies_without_GEDI","beta","SE_CR2","df_Satterthwaite","p"
+"Other LiDAR (no GEDI) vs GEDI, LiDAR combinations only","123","13","25","-0.0114","0.0872","5.8044","0.9007"

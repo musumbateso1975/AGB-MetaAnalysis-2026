@@ -1,0 +1,3 @@
+﻿"Scale","k_obs","Clusters","Obs_abs_std_resid_gt_1.96","Obs_abs_std_resid_gt_3","Shapiro_W_std_resid","Shapiro_p_std_resid","Shapiro_p_cluster_effects","Clusters_outlier_p_lt_0.05","Clusters_outlier_p_lt_Bonferroni","Max_cooks_d","Max_cooks_cluster","Clusters_cooks_gt_chisq50","sigma2_cluster_profileCI","sigma2_study_profileCI","sigma2_obs_profileCI"
+"Untransformed R²","258","56","11","0","0.957","0","0.0793","6","1","0.115","S44","0","0.0055 (0.0000–0.0178)","0.0030 (0.0000–0.0169)","0.0341 (0.0283–0.0417)"
+"Fisher's Z","258","56","12","0","0.988","0.0368","0.502","6","1","0.167","S44","0","0.0483 (0.0000–0.1050)","0.0076 (0.0000–0.0914)","0.0897 (0.0706–0.1149)"

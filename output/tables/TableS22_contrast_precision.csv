@@ -1,0 +1,5 @@
+﻿"Contrast","k","mean_dR2","SE_dR2","CI_width_dR2","MDE80_dR2","Reading"
+"Deep learning vs other models","5","-0.029","0.05","0.28","0.188","Non-significant; differences up to the MDE cannot be excluded (not evidence of equivalence)"
+"Machine learning vs statistical","15","0.043","0.042","0.178","0.125","Non-significant; differences up to the MDE cannot be excluded (not evidence of equivalence)"
+"Multi-sensor vs single-sensor","10","0.052","0.067","0.302","0.21","Non-significant; differences up to the MDE cannot be excluded (not evidence of equivalence)"
+"With LiDAR vs without LiDAR","7","0.245","0.017","0.083","0.057","Difference larger than the detectable threshold"

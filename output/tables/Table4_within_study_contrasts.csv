@@ -1,0 +1,5 @@
+﻿"Contrast","k_studies_Z","dZ_pooled","dZ_CI_lower","dZ_CI_upper","dZ_p","dR2_mean","dR2_CI_lower","dR2_CI_upper","k_studies_A_higher_R2","k_studies_RMSE","RMSE_change_pct","RMSE_change_CI_lower_pct","RMSE_change_CI_upper_pct","k_studies_A_lower_RMSE"
+"Multi-sensor vs single-sensor","10","0.0792","-0.2033","0.3616","0.5418","0.0518","-0.0992","0.2029","7","12","-5.0829","-25.4715","20.8835","9"
+"With LiDAR vs without LiDAR","7","0.4571","0.3801","0.5342","0","0.245","0.2038","0.2863","7","10","-25.0897","-33.6918","-15.3716","9"
+"Machine learning vs statistical","15","0.1132","-0.0782","0.3047","0.2253","0.0429","-0.0462","0.132","9","15","-9.1437","-20.8917","4.349","10"
+"Deep learning vs other models","5","0.0444","-0.2706","0.3593","0.7157","-0.029","-0.1691","0.111","3","5","5.2187","-20.6668","39.5501","3"
